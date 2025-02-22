@@ -64,7 +64,8 @@
 	 - Step 15 :	From the visualization pane placed new card visuals to display the Sales[by default the sales shown in for the current year]
 	Added reference variables to visualize the comparison of the Sales
 	Added arrow marks and formatted to show the difference with green and blue.
- Snap of the card
+ # Snapshot 
+ 
  ![Image](https://github.com/user-attachments/assets/d455266a-8876-4a6f-b105-f317937bf2a5)
 
 	Following dax used 
@@ -123,6 +124,8 @@
 	Added reference variables to visualize the comparison of the profit.
 	Added arrow marks and formatted to show the difference with green and blue.
 
+ # Snapshot 
+ 
 ![Image](https://github.com/user-attachments/assets/432d8bd0-3364-4e82-92f9-f4996370c904)
 
 	Following dax used 
@@ -181,7 +184,8 @@
 	Added reference variables to visualize the comparison of the Orders
 	Added arrow marks and formatted to show the difference with green and blue.
 
-Snap of the column 
+ # Snapshot  
+ 
 ![Image](https://github.com/user-attachments/assets/69c10db1-0bc0-4bd7-8109-522dcca7a18b)
 
 Following DAX expression was written for the same,
@@ -237,7 +241,8 @@ Following DAX expression was written for the same,
 		)
         
  - Step 18 : A card visual was used to represent count of customers.
-snap of the card
+ # Snapshot 
+ 
 ![Image](https://github.com/user-attachments/assets/9c7d4920-597a-42b2-bcbf-90fa8b035b15)
 
 		Dax Used 
@@ -247,40 +252,45 @@ Bar Chart
         
  - Step 19 : Stacked bar chart to visualize and understand the sales contribution  by ship mode.
 	
-	Snap of the chart
+	 # Snapshot of the chart
+
 ![Image](https://github.com/user-attachments/assets/fb338ef9-0445-474c-8af7-045048e4d11e)	
 	
  - Step 20 : Stacked bar chart to show the top 10 sold product of all the time.
 
-	Snap of the chart
+	 # Snapshot  of the chart
+
 ![Image](https://github.com/user-attachments/assets/bb96c350-fdfb-44b5-825d-2dcc544230e2)
 
  - Step 21 : Clustered column chart to find out the which category are targted or bought  by different segment of customers.
 
-	Snap of the chart
+	 # Snapshot  of the chart
+
 ![Image](https://github.com/user-attachments/assets/272aeed7-1d85-499a-96c0-6792ca5b4544)
 
  - Step 22 : Funnel chart to visualize and get the details on top 5 products with max discounts to make a conclusion on providing discounts.
 
-	Snap of the chart
+	 # Snapshot  of the chart
+
 ![Image](https://github.com/user-attachments/assets/0869ec64-9f19-4e4c-880f-165f261df9ef)
 
 
 - Step 23 : Clustered bar chart to gain the counts and order made by the customer in each state.
 
-	Snap of the chart 
+	 # Snapshot  of the chart
+  
 
 ![Image](https://github.com/user-attachments/assets/8fc9f375-f370-4e3c-8cbc-ba3a5edd2cb9)
 
 - Step 24 : Donut chart to analyse the total sales done by segment wise 
 
-	Snap of the chart
+	 # Snapshot  of the chart
 
 ![Image](https://github.com/user-attachments/assets/f89cbb27-4be7-417f-afa0-9d81e3b0b3ab)
 
 - Step 25 : Pie chart to analyse the total sales done by segment category
 
-	Snap of the chart
+	 # Snapshot  of the chart
 
 ![Image](https://github.com/user-attachments/assets/2762e29c-7a1c-4ec0-a724-371e657893a8)
 
@@ -288,7 +298,7 @@ Line Chart
 
  - Step 26 : line chart tree added to the report design for collecting thorough sales trend by quater and month 
 	
-	Snap of the visual
+	 # Snapshot  of the visual
 
 ![Image](https://github.com/user-attachments/assets/bd365b89-2fd2-4855-9a5d-1c954fc82f61)
 
@@ -296,7 +306,7 @@ Line Chart
  - Step 27 : Multi Row card added to the for grabbing the details about top 5 and bottom 5 customers by sales ,quantity and profit.
 	bookmark was added to see the bottom customers within the same visual.
 	
-	Snap of the visual
+	 # Snapshot  of the visual
 top 5
 ![Image](https://github.com/user-attachments/assets/3d2f1bb2-b443-47f3-ae1c-4a73fc02cf9d)
 
@@ -306,7 +316,7 @@ Bottom 5
  - Step 28 : Created slicers with state and city to analyse all  total sales aspects.
 	added bookmarks accordingly.
 	
-	snap of the filters
+	 # Snapshot  of the filters
 
 ![Image](https://github.com/user-attachments/assets/013066bc-2779-446a-b856-8f66e97f2a0b)
 
@@ -314,11 +324,12 @@ Bottom 5
 
  -Step 29 : Added year ,month and quater slicers to customer page.
 
-	snap of slicers
+	 # Snapshot  of slicers
+  
 ![Image](https://github.com/user-attachments/assets/bf3d84bf-3dda-4a41-86ec-221db7dbbe84)
 
  - Step 30 : Assigned page navigators to navigate through the pages and designed.
-   snap of navigators
+    # Snapshot  of navigators
 
 ![Image](https://github.com/user-attachments/assets/640098b0-4905-420d-b6ba-b991dc28843a)
 
@@ -326,7 +337,7 @@ Bottom 5
  - Step 30 :  Created three bookmarks namely for opeining the slicer, closing the slicer ,clearing all the applied filters and multi row card switching,
 	 alongside Used selection pane to group the visuals accordinlgy to manage the dashboard effieciently.
 
-snap of the bookmarks and selection pane
+ # Snapshot  of the bookmarks and selection pane
 
 ![Image](https://github.com/user-attachments/assets/b3f44a84-f0bc-4cd0-a6c4-c92948078155)
 
